@@ -1,0 +1,14 @@
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\bin\Debug\net8.0\Ev2_7.exe
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\bin\Debug\net8.0\Ev2_7.deps.json
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\bin\Debug\net8.0\Ev2_7.runtimeconfig.json
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\bin\Debug\net8.0\Ev2_7.dll
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\bin\Debug\net8.0\Ev2_7.pdb
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\obj\Debug\net8.0\Ev2_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\obj\Debug\net8.0\Ev2_7.AssemblyInfoInputs.cache
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\obj\Debug\net8.0\Ev2_7.AssemblyInfo.cs
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\obj\Debug\net8.0\Ev2_7.csproj.CoreCompileInputs.cache
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\obj\Debug\net8.0\Ev2_7.dll
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\obj\Debug\net8.0\refint\Ev2_7.dll
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\obj\Debug\net8.0\Ev2_7.pdb
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\obj\Debug\net8.0\Ev2_7.genruntimeconfig.cache
+C:\Users\info2-pc1\Desktop\Nueva carpeta\Ev2_7\Ev2_7\obj\Debug\net8.0\ref\Ev2_7.dll
